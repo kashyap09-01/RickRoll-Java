@@ -1,3 +1,0 @@
-This file is just to explain the code written in the java file.
-
-This is a simple change.
